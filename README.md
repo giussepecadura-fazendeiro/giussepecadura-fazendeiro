@@ -12,5 +12,5 @@ meu nome é danilo dalaqua ou giussepecadura-fazendeiro
 
 insta:danilo_dalaqua
 
-!.[](https://tenor.com/pt-BR/view/viralhog-farm-animals-licking-kissing-i-love-you-gif-12091575)
+!.[(https://tenor.com/pt-BR/view/viralhog-farm-animals-licking-kissing-i-love-you-gif-12091575)]
 
