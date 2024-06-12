@@ -1,16 +1,16 @@
-## Hi there 👋
+### boas vindas ao meu perfil 🫀
+👋
+meu nome é danilo dalaqua ou giussepecadura-fazendeiro
 
-<!--
-**giussepecadura-fazendeiro/giussepecadura-fazendeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- estudo no alura
+- estou aprendendo a linguagen java script
+- ultilizo esse espaço para miha organização e compartilhamento dos meus projetos
 
-Here are some ideas to get you started:
+### entre em contato comigo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001132829068sp@al.educacao.sp.gov.br
+
+insta:danilo_dalaqua
+
+!.[_](https://tenor.com/pt-BR/view/viralhog-farm-animals-licking-kissing-i-love-you-gif-12091575)
+
